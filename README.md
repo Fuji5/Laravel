@@ -1,2 +1,2 @@
 # Laravel
-Practice
+This is practice so nothing funny
